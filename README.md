@@ -1,2 +1,2 @@
 # Numpy_Basics
-Mathematics,matplotlib and reorganizing data using numpy
+Mathematics,statistics and reorganizing data using numpy
